@@ -1,12 +1,12 @@
 # CSE15L Report2
 &nbsp;
 &nbsp;
-### Installing VScode
+### Part 1
 ![Image](p1.png)
 <br />
-The first step to installing VScode is to download the correct VScode versin for the device you are using. [Download](https://code.visualstudio.com/download) <br />
-Once it VScode is downloaded, you will need to run the installer. <br />
-After that, VScode should be installed into you device :) <br />
+The first thing I did was git clone (pasted the url from github) <br />
+Then once I had the files, I went to the handler class to read the code and help me write a method for StringSearch.java<br />
+After that, I made sure to use the correct inputs for a url link such as "=", "s" and "\n" with all the correct inputs. :) <br />
 <br />
 <br />
 <br />
@@ -19,12 +19,10 @@ After that, VScode should be installed into you device :) <br />
 ### Remotely Connecting
 ![Image](p2.png)
 <br />
-The first step is to run VScode then open the terminal. <br />
-After that, type `ssh cs15lsp23zz@ieng6.ucsd.edu` into the terminal. <br />
-*Note: the "zz" for you to replace using your personal CSE15L account combination which you could find on [Account Login](https://sdacs.ucsd.edu/~icc/index.php)*
+The next step is to run the file on the terminal with while using the "/add-message?s=Coffee" and then running the link <br />
+
 <br />
-Finally, enter you're CSE15L password 
-<br />
+\<br />
 <br />
 <br />
 <br />
@@ -42,7 +40,7 @@ Finally, enter you're CSE15L password
 <br />
 <br />
 
-### Trying Some Commands
+### Part2
 ![Image](VScodeTermiinal.png)
 <br />
 Once you login to the Remote Server. <br />
