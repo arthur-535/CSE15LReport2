@@ -1,6 +1,9 @@
 # CSE15L Report2
 &nbsp;
 &nbsp;
+&nbsp;
+&nbsp;
+&nbsp;
 ## Part 1
 ![Image](p1.png)
 <br />
@@ -12,7 +15,6 @@ After that, I made sure to use the correct inputs for a url link such as "=", "s
 <br />
 
 
-### Remotely Connecting
 ![Image](p2.png)
 <br />
 The next step is to run the file on the terminal with while using the "/add-message?s=Coffee" and then running the link <br />
