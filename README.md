@@ -28,7 +28,7 @@ The next step is to run the file on the terminal then open the link, then paste 
 
 <br />
 
-Before
+### Before
 
 <br />
 
@@ -36,7 +36,7 @@ Before
 
 <br />
 <br />
-After
+### After
 <br />
 
 ![Image](p4.png)
