@@ -42,13 +42,13 @@ The next step is to run the file on the terminal with while using the "/add-mess
 
 ## Part2
 <br />
-### Before
+## Before
 <br />
 ![Image](p5.png)
 <br />
 <br />
 <br />
-### After
+## After
 <br />
 ![Image](p4.png)
 <br />
