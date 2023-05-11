@@ -22,24 +22,10 @@ After that, I made sure to use the correct inputs for a url link such as "=", "s
 The next step is to run the file on the terminal with while using the "/add-message?s=Coffee" and then running the link <br />
 
 <br />
-\<br />
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-<br />
-
+<b
 ## Part2
 <br />
 ## Before
