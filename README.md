@@ -10,10 +10,6 @@ After that, I made sure to use the correct inputs for a url link such as "=", "s
 <br />
 <br />
 <br />
-<br />
-<br />
-<br />
-<br />
 
 
 ### Remotely Connecting
