@@ -2,7 +2,7 @@
 &nbsp;
 &nbsp;
 ### Installing VScode
-![Image](VScodeDownloadImage.png)
+![Image](p1.png)
 <br />
 The first step to installing VScode is to download the correct VScode versin for the device you are using. [Download](https://code.visualstudio.com/download) <br />
 Once it VScode is downloaded, you will need to run the installer. <br />
@@ -17,7 +17,7 @@ After that, VScode should be installed into you device :) <br />
 
 
 ### Remotely Connecting
-![Image](RedoLab1login.png)
+![Image](p2.png)
 <br />
 The first step is to run VScode then open the terminal. <br />
 After that, type `ssh cs15lsp23zz@ieng6.ucsd.edu` into the terminal. <br />
