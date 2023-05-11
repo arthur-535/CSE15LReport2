@@ -23,18 +23,24 @@ The next step is to run the file on the terminal then open the link, then paste 
 <br />
 <br />
 <br />
-<b
+
 ## Part2
+
 <br />
-## Before
+
+Before
+
 <br />
+
 ![Image](p5.png)
+
 <br />
 <br />
+After
 <br />
-## After
-<br />
+
 ![Image](p4.png)
+
 <br />
 <br />
 To test the method averageWithoutLowest, first we created a list of doubles. Example {0.0, 2.0, 3.0, 4.0} We are testing whether of not the method drops the lowest number and then find the mean of the remaining numbers. <br /> We used the assertEquals statement with the expected being 3.0, since 2.0+3.0+4.0 = 9 /3 = 3, and the delta value of 0.0 so no tolerance of error. <br /> The expected and actual value were both 3 so the method, averageWithoutLowest is correct. <br />
